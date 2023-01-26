@@ -1,0 +1,25 @@
+{
+  "name": "dubber-be-gooder-to-me",
+  "version": "1.0.0",
+  "description": "Airdrop for Dub Be Good To Me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/dubber-be-gooder-to-me.git"
+  },
+  "keywords": [
+    "genartclub"
+  ],
+  "author": "revdancatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revdancatt/dubber-be-gooder-to-me/issues"
+  },
+  "homepage": "https://github.com/revdancatt/dubber-be-gooder-to-me#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
